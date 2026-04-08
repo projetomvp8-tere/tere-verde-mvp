@@ -4,9 +4,9 @@ Plataforma de turismo ecológico em Teresópolis
 # 🌿 Terê Verde MVP
 
 ## 👥 Integrantes
-- Nome Completo 1
-- Nome Completo 2
-- Nome Completo 3
+- Caio Nascimento
+- Samantha Nunes
+- Matheus Almeida
 
 ## 📌 Situação-Problema
 Circuito Terê Verde
