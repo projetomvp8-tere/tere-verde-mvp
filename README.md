@@ -7,6 +7,8 @@ Plataforma de turismo ecológico em Teresópolis
 - Caio Nascimento
 - Samantha Nunes
 - Matheus Almeida
+- Leonardo Vidal
+- Bruna
 
 ## 📌 Situação-Problema
 Circuito Terê Verde
